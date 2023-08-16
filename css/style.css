@@ -418,7 +418,7 @@ header .follow a{
 
 .product .box-container .box{
     flex:1 1 70rem;
-    height:278rem;
+    height:155rem;
     position: relative;
     overflow:hidden;
     /* box-shadow: 0 .5rem 1rem rgba(0,0,0,.1); */
@@ -427,7 +427,7 @@ header .follow a{
 }
 .product .box-container .strawberry-box{
     flex:1 1 70rem;
-    height:158rem;
+    height:135rem;
     position: relative;
     overflow:hidden;
     /* box-shadow: 0 .5rem 1rem rgba(0,0,0,.1); */
@@ -1129,8 +1129,8 @@ iframe{
         border-radius: 0.7rem;
     }
     .product .box-container .box img{
-        height:950px;
-        width:950px;
+        height:900px;
+        width:900px;
         object-fit: cover;
         border-radius: .5rem;
         position: relative;
@@ -1163,13 +1163,23 @@ iframe{
     }
     .product .box-container .strawberry-box {
     flex: 1 1 70rem;
-    height: 119.5rem;
+    height: 100.5rem;
     position: relative;
     overflow: hidden;
     /* box-shadow: 0 .5rem 1rem rgba(0,0,0,.1); */
     /* background: #fff; */
     border-radius: .5rem;
 }
+.product .box-container .box{
+    flex: 1 1 70rem;
+    height: 125.5rem;
+    position: relative;
+    overflow: hidden;
+    /* box-shadow: 0 .5rem 1rem rgba(0,0,0,.1); */
+    /* background: #fff; */
+    border-radius: .5rem;
+}
+
 .product .box-container .strawberry-box img {
     height: 650px;
     width: 650px;
@@ -1248,8 +1258,8 @@ iframe{
         gap: 1.4rem;
     }
     .product .box-container .box img{
-        height:450px;
-        width:450px;
+        height:380px;
+        width:380px;
         object-fit: cover;
         border-radius: .5rem;
         position: relative;
@@ -1325,24 +1335,24 @@ iframe{
         z-index: 1;
     }
     .product .box-container .orange-box img{
-        height:430px;
-        width:430px;
+        height:300px;
+        width:300px;
         object-fit: cover;
         border-radius: .5rem;
         position: relative;
         z-index: 1;
     }
     .product .box-container .milk-box img{
-        height:430px;
-        width:430px;
+        height:300px;
+        width:300px;
         object-fit: cover;
         border-radius: .5rem;
         position: relative;
         z-index: 1;
     }
     .product .box-container .choccobar-box img{
-        height:430px;
-        width:430px;
+        height:300px;
+        width:300px;
         object-fit: cover;
         border-radius: .5rem;
         position: relative;
@@ -1364,7 +1374,7 @@ iframe{
     }
     .product .box-container .box {
         flex: 1 1 70rem;
-        height: 158rem;
+        height: 80.5rem;
         position: relative;
         overflow: hidden;
         /* box-shadow: 0 .5rem 1rem rgba(0,0,0,.1); */
