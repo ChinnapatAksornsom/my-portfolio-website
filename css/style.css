@@ -31,11 +31,11 @@ body{
     background:#111;
   }
 
-
-section{
-    padding:1rem 5%;
+section {
+    /* padding:1rem 5%; */
     min-height: 40vh;
 }
+
 
 .heading{
     font-size: 3.1rem;
@@ -331,7 +331,7 @@ header .follow a{
 }
 
 .portfolio-page{
-    margin: 18.5rem 0;
+    margin: 10.5rem 0;
 }
 .portfolio-page .heading{
     justify-content: center;
@@ -379,11 +379,13 @@ header .follow a{
     justify-content: center;
     text-align: center;
     font-size: 2.2rem;
+    margin: 3rem;
 }
 .portfolio .web-text{
     justify-content: center;
     text-align: center;
     font-size: 1.8rem;
+    margin: 1rem;
 }
 
 
@@ -617,14 +619,14 @@ header .follow a{
 .course-preview {
 	background-color: #111;
 	color: #fff;
-	padding: 30px;
+	padding: 20px;
 	max-width: 250px;
 }
 
 .course-preview a {
 	color: #fff;
 	display: inline-block;
-	font-size: 12px;
+	font-size: 15px;
 	opacity: 0.6;
 	margin-top: 30px;
 	text-decoration: none;
