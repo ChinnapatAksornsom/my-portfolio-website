@@ -605,7 +605,8 @@ header .follow a{
 }
 
 .course h6 {
-	opacity: 0.6;
+	/* opacity: 0.6; */
+    color: #fcce00;
 	margin: 0;
 	letter-spacing: 1px;
 	text-transform: uppercase;
@@ -624,10 +625,10 @@ header .follow a{
 }
 
 .course-preview a {
-	color: #fff;
+	color: #fcce00;
 	display: inline-block;
 	font-size: 15px;
-	opacity: 0.6;
+	/* opacity: 0.6; */
 	margin-top: 30px;
 	text-decoration: none;
 }
